@@ -1,0 +1,31 @@
+{
+  "hash": "82dc6183",
+  "configHash": "8f876912",
+  "lockfileHash": "eb0c2f01",
+  "browserHash": "3d8d43da",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "e9c1d48e",
+      "needsInterop": true
+    },
+    "react-apexcharts": {
+      "src": "../../node_modules/react-apexcharts/dist/react-apexcharts.min.js",
+      "file": "react-apexcharts.js",
+      "fileHash": "085d0aee",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "55d27e70",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-YGQK2YS4": {
+      "file": "chunk-YGQK2YS4.js"
+    }
+  }
+}
